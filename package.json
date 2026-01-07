@@ -1,0 +1,32 @@
+{
+  "name": "alabastro-theme",
+  "displayName": "Alabastro",
+  "description": "A dark variation of the minimal Alabaster syntax highlighting scheme with enhanced colors and comprehensive UI customization",
+  "version": "1.0.0",
+  "publisher": "ramoncardena",
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark",
+    "syntax",
+    "minimal",
+    "alabaster",
+    "colors",
+    "ui"
+  ],
+  "license": "MIT",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Alabastro",
+        "uiTheme": "vs-dark",
+        "path": "./themes/alabastro-color-theme.json"
+      }
+    ]
+  }
+}
