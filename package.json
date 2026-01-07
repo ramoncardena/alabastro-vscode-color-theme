@@ -20,6 +20,14 @@
     "ui"
   ],
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ramoncardena/alabastro-vscode-color-theme.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ramoncardena/alabastro-vscode-color-theme/issues"
+  },
+  "homepage": "https://github.com/ramoncardena/alabastro-vscode-color-theme#readme",
   "contributes": {
     "themes": [
       {
