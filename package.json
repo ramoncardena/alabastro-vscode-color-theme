@@ -2,7 +2,7 @@
   "name": "alabastro-theme",
   "displayName": "Alabastro",
   "description": "A dark variation of the minimal Alabaster syntax highlighting scheme with enhanced colors and comprehensive UI customization",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "publisher": "ramoncardena",
   "engines": {
     "vscode": "^1.60.0"
