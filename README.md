@@ -6,6 +6,31 @@ A dark variation of the minimal [Alabaster syntax highlighting scheme](https://t
 
 Alabastro builds upon the philosophy of the original Alabaster theme—minimal, focused syntax highlighting that emphasizes what matters. While Alabaster uses a light background with limited colors, Alabastro adapts this approach for dark theme lovers and adds more semantic colors to enhance readability across a wider range of programming languages.
 
+## Screenshots
+
+### Full Editor View
+![Full Editor](resources/full-editor-screenshot.png)
+
+### Syntax Highlighting Examples
+
+#### Python
+![Python](resources/python-screenshot.png)
+
+#### React/JSX
+![React](resources/react-screenshot.png)
+
+#### TypeScript
+![TypeScript](resources/typescript-screenshot.png)
+
+#### Rust
+![Rust](resources/rust-screenshot.png)
+
+#### HTML
+![HTML](resources/html-screenshot.png)
+
+#### CSS
+![CSS](resources/css-screenshot.png)
+
 ## Features
 
 - **Dark, Eye-Friendly Design**: Carefully curated colors for reduced eye strain during extended coding sessions

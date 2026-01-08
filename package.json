@@ -2,7 +2,7 @@
   "name": "alabastro-theme",
   "displayName": "Alabastro",
   "description": "A dark variation of the minimal Alabaster syntax highlighting scheme with enhanced colors and comprehensive UI customization",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "ramoncardena",
   "engines": {
     "vscode": "^1.60.0"
@@ -20,6 +20,7 @@
     "ui"
   ],
   "license": "MIT",
+  "icon": "alabaster-icon.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/ramoncardena/alabastro-vscode-color-theme.git"
